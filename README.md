@@ -2,11 +2,11 @@
 
 # 👋 Hey there, I'm Hamza Lahcen
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=🚀+Web+3D+Developer;🏎️+Car+Lover+%26+Tech+Enthusiast;🤖+AI+Explorer;🎨+Creative+Coder" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=🚀+Web+3D+Developer;🏎️+Car+Lover+%26+Tech+Enthusiast;🤖+AI+Explorer;🎨+Creative+Coder" alt="Typing Animation" />
 
 <br>
 
-<img src="https://i.gifer.com/origin/9e/9ea86b44bb93142d4b9cf438e2a70e6e.gif" width="100%" alt="Animated Banner" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Animated Banner" />
 
 ---
 
@@ -47,7 +47,15 @@
 ### 🚀 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamza64rtx&label=Profile%20views&color=0e75b6&style=flat" alt="hamza64rtx" />
+  <img src="https://komarev.com/ghpvc/?username=hamza64rtx&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Counter" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hamza64rtx&theme=algolia&margin-w=10&margin-h=10&row=2&column=3" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -67,7 +75,6 @@
 </p>
 
 </div>
-
 
 <!---
 hamza64rtx/hamza64rtx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
