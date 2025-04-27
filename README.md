@@ -1,8 +1,10 @@
+<!-- Professional GitHub Profile README -->
+
 <div align="center">
 
 # 👋 Hey there, I'm Hamza Lahcen
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=🚀+Web+3D+Developer;🏎️+Car+Lover+%26+Tech+Enthusiast;🤖+AI+Explorer;🎨+Creative+Coder" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=🚀+Web+3D+Developer;🏎️+Car+Lover+%26+Tech+Enthusiast;🤖+AI+Explorer;🎨+Creative+Coder" alt="Typing Animation" />
 
 <br>
 
@@ -15,32 +17,22 @@
 - 🔥 3D Web Developer passionate about tech, design, and innovation
 - 🌍 Learning **Three.js**, **Babylon.js**, and **AI integration** in web platforms
 - 🎯 Dedicated to creating **smooth, interactive experiences** for products
-- ✉️ Reach me at: [hamzalahcen26@gmail.com](mailto:hamzalahcen26@gmail.com)
+- 📫 Reach me at: [hamzalahcen26@gmail.com](mailto:hamzalahcen26@gmail.com)
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Three.js-111827?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Babylon.js-111827?style=for-the-badge&logo=babylon.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Blender-111827?style=for-the-badge&logo=blender&logoColor=F5792A" />
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-</p>
-
----
-
-### 🏆 Special Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/3D%20Artist-111827?style=for-the-badge&logo=blender&logoColor=F5792A" />
-  <img src="https://img.shields.io/badge/AI%20Explorer-111827?style=for-the-badge&logo=robot&logoColor=00A9E0" />
-  <img src="https://img.shields.io/badge/Innovator-111827?style=for-the-badge&logo=lightbulb&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Babylon.js-FF0000?style=for-the-badge&logo=babylon.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
@@ -48,24 +40,24 @@
 ### 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza64rtx&show_icons=true&theme=radical" width="450px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza64rtx&theme=radical" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamza64rtx&show_icons=true&theme=radical&bg_color=0f2027&title_color=00FFF7&text_color=ffffff&icon_color=00FFF7" width="450px" />
+  <img src="https://streak-stats.demolab.com?user=hamza64rtx&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="400px" />
 </p>
 
 ---
 
-### 🐍 Snake Animation
+### 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github.com/hamza64rtx/hamza64rtx/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hamza64rtx&bg_color=0f2027&color=00fff7&line=00fff7&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
 
-### 🚀 Visitor Counter
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamza64rtx&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Counter" />
+  <img src="https://github.com/hamza64rtx/hamza64rtx/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -73,7 +65,15 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamza64rtx&theme=algolia&margin-w=10&margin-h=10&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hamza64rtx&theme=radical&no-frame=true&row=2&column=3" />
+</p>
+
+---
+
+### 🚀 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamza64rtx&label=Profile%20views&color=00FFF7&style=flat-square" alt="Visitor Counter" />
 </p>
 
 ---
@@ -82,13 +82,13 @@
 
 <p align="center">
   <a href="mailto:hamzalahcen26@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=D14836" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=7289DA" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://twitter.com/hamza64rtx">
-    <img src="https://img.shields.io/badge/Twitter-111827?style=for-the-badge&logo=twitter&logoColor=1DA1F2" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
