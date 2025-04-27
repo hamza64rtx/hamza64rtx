@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://github.com/hamza64rtx/hamza64rtx/assets/your-banner.png" width="80%" alt="Professional Banner" />
+<img src="https://i.imgur.com/NEGuOj1.png" width="80%" alt="Professional Banner" />
 
 ---
 
@@ -38,14 +38,14 @@
 ### 🏆 Special Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source%20Lover-111827?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tech%20Artist-111827?style=for-the-badge&logo=artstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/Creative%20Coder-111827?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/3D%20Artist-111827?style=for-the-badge&logo=blender&logoColor=F5792A" />
+  <img src="https://img.shields.io/badge/AI%20Explorer-111827?style=for-the-badge&logo=robot&logoColor=00A9E0" />
+  <img src="https://img.shields.io/badge/Innovator-111827?style=for-the-badge&logo=lightbulb&logoColor=F7DF1E" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🏆 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamza64rtx&show_icons=true&theme=radical" width="450px" />
