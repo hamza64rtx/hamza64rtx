@@ -17,7 +17,7 @@
 - 🔥 3D Web Developer passionate about tech, design, and innovation
 - 🌍 Learning **Three.js**, **Babylon.js**, and **AI integration** in web platforms
 - 🎯 Dedicated to creating **smooth, interactive experiences** for products
-- 📫 Reach me at: [hamzalahcen26@gmail.com](mailto:hamzalahcen26@gmail.com)
+- 📫 Reach me at: [grike45@gmail.com](mailto:grike26@gmail.com)
 
 ---
 
