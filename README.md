@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Animated Banner" />
+<img src="https://github.com/hamza64rtx/hamza64rtx/assets/your-banner.png" width="80%" alt="Professional Banner" />
 
 ---
 
@@ -35,11 +35,29 @@
 
 ---
 
+### 🏆 Special Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source%20Lover-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tech%20Artist-111827?style=for-the-badge&logo=artstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Creative%20Coder-111827?style=for-the-badge&logo=codeforces&logoColor=white" />
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamza64rtx&show_icons=true&theme=radical" width="450px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza64rtx&theme=radical" width="400px" />
+</p>
+
+---
+
+### 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://github.com/hamza64rtx/hamza64rtx/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
