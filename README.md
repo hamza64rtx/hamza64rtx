@@ -57,7 +57,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/hamza64rtx/hamza64rtxm/blob/workflows/github-contribution-grid-snake.yml" alt="Snake animation" />
+  <img src="(https://github.com/hamza64rtx/hamza64rtx/blob/output/github-contribution-grid-snake.gif)" alt="Snake animation" />
 </p>
 
 ---
