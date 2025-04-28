@@ -56,10 +56,8 @@
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="(https://github.com/hamza64rtx/hamza64rtx/blob/output/github-contribution-grid-snake.gif)" alt="Snake animation" />
-</p>
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 ---
 
 ### 🏆 GitHub Trophies
